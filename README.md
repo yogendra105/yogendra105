@@ -1,5 +1,5 @@
-![Banner Gif](https://github.com/sundramsharma1/sundramsharma1/blob/master/Banner.gif)
-Hey Everyone  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Sundram Sharma
+![Banner Gif](https://github.com/yogendra105/yogendra105/blob/main/Purple%20Abstract%20Graphic%20Design%20LinkedIn%20Article%20Cover%20Image.gif)
+Hey Everyone  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Yogendra Singh
 ======================================================================================================================================
 <h1> A Passionate Software Engineer / Full Stack Developer </h1>
 
@@ -7,22 +7,22 @@ Hey Everyone  ![](https://user-images.githubusercontent.com/18350557/176309783-0
 - 🌱 I’m Interested to work on Software Development / Full Stack Development / Cyber Analytics
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about Technology 
-- 📫 How to reach me: sundramsharma12244@gmail.com
+- 📫 How to reach me: thakuryogichbgmail.com
 - ⚡ Fun fact: I'm currently studying B. Tech Computer Science
 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sundram1" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sundramsharma1/sundramsharma1/blob/master/Contact%20Us" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/yogendra1/" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/linkedin.png" alt="sundram1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/yogendra105/yogendra105/blob/main/Contact%20Us" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/Gmail.png" alt="Gmail" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/StarkSundram" target="_blank"><img align="center" src="https://github.com/sundramsharma1/sundramsharma1/blob/master/icons/twitter.png" alt="sundram1" height="50" width="50" /></a>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sundramsharma1" alt="sundramsharma1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendra105" alt="yogendra105" /></a> </p>
 
 
 <p align="left">
-<img src="https://img.shields.io/github/followers/sundramsharma1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=sundramsharma1&color=0891b2&style=for-the-badge" alt="sundramsharma1" />
+<img src="https://img.shields.io/github/followers/yogendra105?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=yogendra105&color=0891b2&style=for-the-badge" alt="yogendra105" />
 </p>
 
 - <h3 align="left">Programming Languages  </h3>
@@ -107,24 +107,15 @@ Hey Everyone  ![](https://user-images.githubusercontent.com/18350557/176309783-0
 <h3 align="center"> My GitHub Stats </h3>
 
 <p align="center">
-<a align="left" href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=sundramsharma1&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
+<a align="left" href="http://www.github.com/yogendra105"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yogendra105&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></p>
 
 <p align="center">
-<a  href="http://www.github.com/sundramsharma1"><img  src="https://github-readme-stats.vercel.app/api?username=sundramsharma1&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sundramsharma1's GitHub stats" /></a></p>
+<a  href="http://www.github.com/yogendra105"><img  src="https://github-readme-stats.vercel.app/api?username=yogendra105&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yogendra105's GitHub stats" /></a></p>
 
 <p align="center">
-<a align="left" href="https://github.com/sundramsharma1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramsharma1&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a align="left" href="https://github.com/yogendra105" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra105&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/sundramsharma1/Manya-One-Oath-Projects" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sundramsharma1&repo=Manya-One-Oath-Projects&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/sundramsharma1/Simple-Website-Navbar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sundramsharma1&repo=Simple-Website-Navbar&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sundramsharma1/sundramsharma1/output/snake.svg" alt="Snake animation" />
